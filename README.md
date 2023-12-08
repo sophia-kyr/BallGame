@@ -1,4 +1,4 @@
-Ball Game - Unity
+# Ball Game - Unity
 
 This is a simple and easy-to-use game made with Unity, using their tutorial for new users.
 
